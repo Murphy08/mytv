@@ -1,6 +1,6 @@
 {
   "wallpaper":"https://picsum.photos/1280/720",
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
+  "spider": "https://murphy08.github.io/tv/my.jar",
   "lives": [
         {
             "name": "tv",
