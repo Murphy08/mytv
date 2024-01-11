@@ -1,6 +1,6 @@
 {
 {
-  "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
+  "spider":"https://murphy08.github.io/tv/my.jar",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives": [
         {"name":"live","type":0,"playerType":1,"url":"https://murphy08.github.io/tv/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"},
