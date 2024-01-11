@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "https://murphy08.github.io/tv/spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
