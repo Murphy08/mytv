@@ -1,0 +1,153 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "name": "微博主页",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/wb.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/sina.png", 
+        "version": ""
+      }
+
+    ]
+  },
+  
+  {
+    "name": "应用商店",
+    "list": [
+      {
+        "name": "无界本地包",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/rar/无界.rar",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/rar.png",
+        "version": "v24.01.10"
+      },
+      {
+        "name": "Fongmi影视",
+        "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
+        "version": "电视版-py-v8a"
+      },
+      {
+        "name": "Fongmi影视",
+        "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
+        "version": "手机版-py-v8a"
+      },
+      {
+        "name": "Fongmi影视",
+        "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
+        "version": "电视版-安卓4.x版"
+      },
+  {
+        "name": "影视仓",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "电视版5.0.20_1"
+      },
+      {
+        "name": "影视仓",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "电视版5.0.20_1海信版"
+      },
+      {
+        "name": "影视仓",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "电视版3.0.36-安卓4.x版"
+      },
+      {
+        "name": "影视仓",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "手机版2.0.15_2-短视频版"
+      },
+      {
+        "name": "影视仓",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "手机版2.0.15_2-游戏版"
+      },
+            {
+        "name": "Tvbox",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/tvboxq.png",
+        "version": "Q版"
+      },
+      {
+        "name": "Tvbox",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/tvboxt.png",
+        "version": "takagen99"
+      },
+      {
+        "name": "DIYP",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/diyp.png",
+        "version": ""
+      },
+      {
+        "name": "Catbox",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/catbox.png",
+        "version": ""
+      },
+      {
+        "name": "派大星直播",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/pdx.png",
+        "version": ""
+      },
+      {
+        "name": "科学上网",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/heidong.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/tz.png",
+        "version": ""
+      },
+      {
+        "name": "阿里云盘",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/alyp.png",
+        "version": "可一键获取token"
+      }
+    ]
+  },
+  
+  {
+    "name": "文档教程",
+    "list": [
+      {
+        "name": "多线直播切换方法",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/text/course/多线直播切换方法.pdf",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/pdf.png",
+        "version": "pdf"
+      }, 
+      {
+        "name": "本地包使用教程",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/text/course/本地包使用教程.pdf",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/pdf.png",
+        "version": "pdf"
+      }
+
+    ]
+  },
+  
+  {
+    "name": "扫码进群",
+    "list": [
+      {
+        "name": "Sina微博",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/wb.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/sina.png", 
+        "version": ""
+      }, 
+      {
+        "name": "QQ群",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/qq-qun.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/qq.png",
+        "version": "无界交流"
+      }
+    ]
+  }
+]
